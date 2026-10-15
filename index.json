@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "datatemplates",
+  "versions": [
+    {
+      "commit": "2ad0b634fa1a8fedfc87d8635bb3dfe57f2c845a",
+      "tag": "",
+      "parsed_at": "2026-10-15T11:20:17.740796+00:00"
+    }
+  ]
+}
